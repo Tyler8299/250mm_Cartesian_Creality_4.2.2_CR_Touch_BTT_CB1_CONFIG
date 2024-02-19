@@ -86,6 +86,3 @@ requirements = scripts/KlipperScreen-requirements.txt
 install_script = scripts/KlipperScreen-install.sh
 managed_services = KlipperScreen
 
-[mmu_server]
-enable_file_preprocessor = False
-
